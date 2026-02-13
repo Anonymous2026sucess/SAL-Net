@@ -7,7 +7,7 @@ The Kolmogorov-Arnold Network (KAN) has attracted wide-spread attention in the f
 ## 1. Overview
 
 <div align="center">
-<img src="Figs/SAL-Net.png" />
+<img src="Figs/SAL.png" />
 </div>
 
 
